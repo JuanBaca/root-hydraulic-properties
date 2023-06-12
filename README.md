@@ -1,6 +1,6 @@
-# root-hydraulic-properties
+# Root hydraulic properties Shiny app
 This is a beta version of the root hydrualic properties database app. 
-To run the app locally in R, type in the following lines :
+To run the app locally in R, type in the following lines in the console:
 
 ```
 library(shiny)
