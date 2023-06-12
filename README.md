@@ -9,4 +9,13 @@ shiny::runGitHub("JuanBaca/root-hydraulic-properties", "JuanBaca")
 
 You will need to have the following packages installed in your computer:
 
+* shiny
 * tidyverse
+* readxl
+* scales
+* DT
+* magrittr
+* data.table
+* shinyWidgets
+* ggasym
+* plotly
